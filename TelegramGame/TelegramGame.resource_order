@@ -15,5 +15,7 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_tile","order":1,"path":"sprites/spr_tile/spr_tile.yy",},
+  ],
 }

@@ -3,4 +3,4 @@
 draw_set_font(Font1)
 draw_set_color(c_black)
 draw_sprite(spr_button_nine_slice,0,x,y)
-draw_text(0, 0, "Counter: " + string(counter));
+draw_text(480, 200, "Counter: " + string(counter));

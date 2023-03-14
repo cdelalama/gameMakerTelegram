@@ -35,6 +35,7 @@
     {"id":{"name":"spr_tile","path":"sprites/spr_tile/spr_tile.yy",},"order":1,},
     {"id":{"name":"spr_button_nine_slice","path":"sprites/spr_button_nine_slice/spr_button_nine_slice.yy",},"order":0,},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
+    {"id":{"name":"e_ddbb","path":"extensions/e_ddbb/e_ddbb.yy",},"order":0,},
     {"id":{"name":"o_button","path":"objects/o_button/o_button.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
